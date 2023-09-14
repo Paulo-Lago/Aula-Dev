@@ -10,17 +10,16 @@
 body {
     background-image: linear-gradient(
         to right, black, #4f4f4f);
-        width: 95%;
 }
 
 .logo {
-    width: 250px;
+    width: 14%;
     display: block;
     margin: 20px auto;
 }
 
 main {
-    width: 375px;
+    width: 20%;
     background: #1C1C1C;
     border-radius: 20px;
     margin: 0 auto 40px;
