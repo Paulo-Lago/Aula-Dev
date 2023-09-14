@@ -5,12 +5,12 @@
     box-sizing: c=border-box;
     font-family: 'Poltawski Nowy', serif;
     outline: none;
-    width: 95%;
 }
 
 body {
     background-image: linear-gradient(
         to right, black, #4f4f4f);
+        width: 95%;
 }
 
 .logo {
